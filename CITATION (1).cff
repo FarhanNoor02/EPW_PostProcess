@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: EPW_PostProcess
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Farhan
+    family-names: Noor
+    email: s-2019418104@phy.du.ac.bd
+    name-particle: Farhan
+    affiliation: University of Dhaka
+repository-code: 'https://github.com/FarhanNoor02/EPW_PostProcess'
+url: 'https://github.com/FarhanNoor02'
+abstract: >-
+  A collection of scripts to post-process the output from
+  Quantum ESPRESSO's EPW code
+keywords:
+  - Quantum ESPRESSO
+  - EPW
+  - Script
+license: GPL-3.0
